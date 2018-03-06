@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.user.garbagecollector.MainActivity">
+    tools:context="com.example.user.garbagecollector.ru.example.user.garbagecollector.MainActivity">
 
     <fragment
         android:id="@+id/fragment"
-        android:name="com.example.user.garbagecollector.GarbageRecyclingFragment"
+        android:name="ru.sibur.android.garbagecollector.GarbageRecyclingFragment"
         android:layout_width="match_parent"
         android:layout_height="336dp"
 

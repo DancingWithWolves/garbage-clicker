@@ -1,4 +1,4 @@
-package com.example.user.garbagecollector;
+package ru.sibur.android.garbagecollector;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
